@@ -35,14 +35,10 @@ Stock prices are highly volatile and affected by numerous factors. This project 
 - **Optimizer**: Adam
 
 ## 🖼️ Results
+RMSE:  0.11952334911914844
+MAPE:  0.09132300400816384
 
-![Prediction Graph](outputs/predictions.png)
-
-## 📈 RMSE Score
-
-```text
-RMSE: [insert value here]
-```
+---
 
 ## 📁 Repository Structure
 ```css
